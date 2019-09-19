@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MybatistestApplication {
 
     public static void main(String[] args) {
-        System.out.println("测试分支bug修复---");
+        System.out.println("测试分支bug修复===");
         SpringApplication.run(MybatistestApplication.class, args);
     }
 
